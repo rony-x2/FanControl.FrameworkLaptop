@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+src/FanControl.FrameworkLaptop/lib/*.dll
+test/calls.log
+test/state

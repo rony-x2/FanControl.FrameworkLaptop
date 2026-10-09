@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><Nullable>disable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FanControl.Plugins"><HintPath>../src/FanControl.FrameworkLaptop/lib/FanControl.Plugins.dll</HintPath></Reference>
+    <Reference Include="FanControl.FrameworkLaptop"><HintPath>../src/FanControl.FrameworkLaptop/bin/Release/net10.0/FanControl.FrameworkLaptop.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>
